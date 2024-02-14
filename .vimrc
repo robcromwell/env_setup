@@ -1,0 +1,9 @@
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
+set expandtab
+set nu
+syntax on
+set lcs+=space:·
+set ruler
+set re=2
